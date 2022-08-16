@@ -1,0 +1,41 @@
+{
+  "createRequest": {
+    "title": "tester",
+    "description": "capg",
+    "published": true
+  },
+  "putRequest": {
+    "title1": "test",
+    "description1": "automation",
+    "published1": true
+  },
+  "putRequest1": {
+    "title2": "unit-test",
+    "description2": "manual-testing",
+    "published2": false
+  },
+  "putRequest2": {
+    "id3": "456",
+    "title3": "smoke test",
+    "description3": "automate",
+    "published3": true
+  },
+  "putRequest3": {
+    "id4": "456",
+    "title4": "smoke test",
+    "description4": "automate",
+    "published4": false
+  },
+  "createRequest1": {
+    "title5": "testing",
+    "description5": "automation testing",
+    "published5": false,
+    "message": "tutorial is created"
+  },
+  "createTutorial": {
+    "title6": "testing",
+    "description5": "regression testing",
+    "published5": 4788907,
+    "message": "error is thrown"
+  }
+}
